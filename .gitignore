@@ -5,3 +5,4 @@ bin/release
 res.bat
 res_exclude.txt
 *.swp
+*.png

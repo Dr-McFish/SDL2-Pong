@@ -1,6 +1,7 @@
-<!-- # SDL2-Pong -->
+# SDL2-Pong
 
-<!-- TODO add screenshot using github image technique -->
+![header](https://user-images.githubusercontent.com/61105022/107999406-943baf00-6fe7-11eb-83aa-aecc2b4bd5cc.PNG)
+
 
 ## About
 
@@ -74,3 +75,13 @@ If you want to delete the source files / move the executable to another location
 ### **Step 5:** DONE!
 
 Enjoy!
+
+## Credit
+
+- Thanks to [codergopher](https://www.youtube.com/channel/UCfiC4q3AahU4Io-s83-CIbQ), who's YouTube [series](https://youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS) for being helpful on this topic,
+- All dlls in the binary folder are not my own, I am only redistributing them, they are part of the SDL2 project
+
+## Contact me
+
+Let's chat on discord! @Dr_McFish#7228
+email me! [drmcfish@vivaldi.net](drmcfish@vivaldi.net)

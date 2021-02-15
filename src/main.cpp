@@ -81,7 +81,7 @@ int main(int argc, char* args[]) {
 	LetterSprite preGameCounter(160-15, 50, '0', 10);
 	
 	Text<10> splashText(160 + (12*3)/2, 120, 3, " DR MCFISH");
-	Text<4> title(160, 50, 10, "PONG");
+	Text<9> title(160, 50, 6, "SDL2 PONG");
 	TextButton<9> menue1(160, 110 +4*6*0, 3, "P TO PLAY");
 	TextButton<9> menue2(160, 110 +4*6*1, 3, "Q TO QUIT");
 	Text<3> win(80, 240 -7*6, 7, "WIN");
