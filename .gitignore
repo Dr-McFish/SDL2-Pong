@@ -1,5 +1,7 @@
 *.code-workspace
 .vscode
-bin
+bin/debug
+bin/release
 res.bat
 res_exclude.txt
+*.swp

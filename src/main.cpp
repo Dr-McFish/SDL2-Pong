@@ -272,7 +272,7 @@ int main(int argc, char* args[]) {
 		//const float alpha = accumulator/dt;
 		//rendering
 		window.clear();
-		switch(state){
+		switch(state) {
 			case SPLASH:{
 				window.render(fishLogo);
 				splashText.renderText(window);
@@ -283,8 +283,8 @@ int main(int argc, char* args[]) {
 				menue1.renderText(window);
 				menue2.renderText(window);
 				break;
-			}case GAME:{
-				for(int i=0; i < ENTITY_NUM; i++){
+			} case GAME: {
+				for(int i=0; i < ENTITY_NUM; i++) {
 					window.render(*enities[i]);
 				}
 				for (int i = 0; i < LINE_NUM; i++){
@@ -292,13 +292,13 @@ int main(int argc, char* args[]) {
 				}
 				scoreL.render(window);
 				scoreR.render(window);
-				if(ball.isOut > 2){
+				if(ball.isOut > 2) {
 					win.renderText(window);
 				} else if(ball.isOut != 0){
 					serve.renderText(window);
 				}
 				break;
-			}default:{
+			} default: {
 				break;
 			}
 		}
