@@ -83,5 +83,5 @@ Enjoy!
 
 ## Contact me
 
-Let's chat on discord! @Dr_McFish#7228
+Let's chat on discord! @Dr_McFish#7228 <br>
 email me! [drmcfish@vivaldi.net](drmcfish@vivaldi.net)
