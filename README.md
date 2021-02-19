@@ -14,10 +14,11 @@ This game is unfortunately local multiplayer only : once you press `P` in the ma
 ### Screenshots
 
 <details>
-	<summary>click to view screenshots</summary>
-	![Screenshot (42)](https://user-images.githubusercontent.com/61105022/108535236-6605ea00-72db-11eb-916f-51b7fb3971ee.png)
-	![Screenshot (43)](https://user-images.githubusercontent.com/61105022/108535302-77e78d00-72db-11eb-89dc-b223d2728ae7.png)
-	![Screenshot (48)](https://user-images.githubusercontent.com/61105022/108535434-a1a0b400-72db-11eb-800b-1361ed7f5b44.png)
+    <summary>click to view screenshots</summary>
+
+![Screenshot (42)](https://user-images.githubusercontent.com/61105022/108535236-6605ea00-72db-11eb-916f-51b7fb3971ee.png?raw=true)
+![Screenshot (43)](https://user-images.githubusercontent.com/61105022/108535302-77e78d00-72db-11eb-89dc-b223d2728ae7.png?raw=true)
+![Screenshot (48)](https://user-images.githubusercontent.com/61105022/108535434-a1a0b400-72db-11eb-800b-1361ed7f5b44.png?raw=true)
 </details>
 
 ## Pre built binary
