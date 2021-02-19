@@ -12,9 +12,9 @@ This is a pong clone written in c++ and SDL2. This is my first real project with
 This game is unfortunately local multiplayer only : once you press `P` in the main menu to play, the left player controls their paddle up and down movement with `W` and `S`, while the player on the right can use the `up` and `down` arrows or `O` and `L` keys.
 
 ### Screenshots
->! ![Screenshot (42)](https://user-images.githubusercontent.com/61105022/108535236-6605ea00-72db-11eb-916f-51b7fb3971ee.png)
->! ![Screenshot (43)](https://user-images.githubusercontent.com/61105022/108535302-77e78d00-72db-11eb-89dc-b223d2728ae7.png)
->! ![Screenshot (48)](https://user-images.githubusercontent.com/61105022/108535434-a1a0b400-72db-11eb-800b-1361ed7f5b44.png)
+>! [Screenshot (42)](https://user-images.githubusercontent.com/61105022/108535236-6605ea00-72db-11eb-916f-51b7fb3971ee.png)
+>! [Screenshot (43)](https://user-images.githubusercontent.com/61105022/108535302-77e78d00-72db-11eb-89dc-b223d2728ae7.png)
+>! [Screenshot (48)](https://user-images.githubusercontent.com/61105022/108535434-a1a0b400-72db-11eb-800b-1361ed7f5b44.png)
 
 ## Pre built binary
 
