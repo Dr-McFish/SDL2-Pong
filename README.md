@@ -90,8 +90,3 @@ Enjoy!
 
 - Thanks to [codergopher](https://www.youtube.com/channel/UCfiC4q3AahU4Io-s83-CIbQ), who's YouTube [series](https://youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS) for being helpful on this topic,
 - All dlls in the binary folder are not my own, I am only redistributing them, they are part of the SDL2 project
-
-## Contact me
-
-Let's chat on discord! @Dr_McFish#7228 <br>
-email me! [drmcfish@vivaldi.net](mailto:drmcfish@vivaldi.net)
